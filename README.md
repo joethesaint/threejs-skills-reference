@@ -6,7 +6,7 @@ This repository is public for now and can be switched to private later without c
 
 ## Contents
 
-- **Impertio Studio — Three.js Claude Skill Package:** 96 Markdown files
+- **Impertio Studio — Three.js Claude Skill Package:** 119 Markdown files, including all skills, agent instructions, and project documentation
 - **Majid Manzarpour — threejs-game-skills:** 28 Markdown files
 
 See [SOURCES.md](SOURCES.md) for the original repositories, exact commits, and licenses.

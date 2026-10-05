@@ -4,7 +4,7 @@
 
 - Upstream: <https://github.com/Impertio-Studio/Three.js-Claude-Skill-Package>
 - Archived commit: [`6c190f0db95d6e4b77d7843d181c6d3325c09d0e`](https://github.com/Impertio-Studio/Three.js-Claude-Skill-Package/tree/6c190f0db95d6e4b77d7843d181c6d3325c09d0e)
-- Archived directory: `sources/impertio-threejs-claude-skill-package/skills/`
+- Archived directory: `sources/impertio-threejs-claude-skill-package/` (complete Markdown collection: skills, agent instructions, and documentation)
 - License: MIT, copied to `LICENSES/Impertio-Studio-Three.js-Claude-Skill-Package-MIT.txt`
 
 ## Majid Manzarpour — threejs-game-skills
